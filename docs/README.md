@@ -4,6 +4,12 @@ This directory contains PiG's maintainer references and the public user document
 
 Start here, choose one row, and read that focused document completely. Do not load every document for an unrelated task.
 
+## Source-learning tutorial
+
+[PiG 源码学习篇（中文）](site/docs/learning.md) follows the reference tutorial's ten chapters and subsection order, with explanations based on the current Go implementation. The index records the source baseline, version differences, and reading sequence.
+
+The guides it cites (quickstart, providers, models, extensions, packages, skills, prompt templates, themes, CLI integration, RPC, Go SDK, session format, security) also have Chinese translations under `docs/site/docs/zh-*.md`. The English pages remain the normative source.
+
 ## Task router
 
 | If you are changing or deciding... | Read first | Then read |

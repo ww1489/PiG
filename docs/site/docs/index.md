@@ -11,7 +11,7 @@ PiG is under active development. Install it on macOS or Linux with `curl -fsSL h
 - [Install troubleshooting](/docs/latest/install-troubleshooting) helps when `pig` is not found or an install fails.
 - [Applied use cases](/docs/latest/applied-use-cases) are step-by-step walkthroughs for people who do not program: summarise PDFs, organise files, and how to undo.
 - [Using PiG](/docs/latest/usage) covers the normal command-line and interactive surfaces.
-- [PiG concepts](/docs/latest/concepts) explains Stock PiG, Resources, Packages, Piglets, and Piglet Binaries.
+- [PiG 源码学习篇（中文）](learning.md) follows a ten-chapter path through the current Go architecture, agent loop, tools, messages, context, and sessions.
 - [Security](/docs/latest/security) explains trust and process boundaries.
 - [Providers](/docs/latest/providers) explains model authentication and configuration.
 

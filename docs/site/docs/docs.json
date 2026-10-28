@@ -25,6 +25,30 @@
     "json.md": "adapted-pi",
     "keybindings.md": "adapted-pi",
     "knowledge-graph.md": "pig-authored",
+    "learning.md": "pig-authored",
+    "learning-ch01-overview.md": "pig-authored",
+    "learning-ch02-three-layer-arch.md": "pig-authored",
+    "learning-ch03-agent-loop.md": "pig-authored",
+    "learning-ch04-model-call.md": "pig-authored",
+    "learning-ch05-tools.md": "pig-authored",
+    "learning-ch06-messages.md": "pig-authored",
+    "learning-ch07-event-driven.md": "pig-authored",
+    "learning-ch08-context-engineering.md": "pig-authored",
+    "learning-ch09-compaction.md": "pig-authored",
+    "learning-ch10-session.md": "pig-authored",
+    "zh-cli-integration.md": "adapted-pi",
+    "zh-extensions.md": "adapted-pi",
+    "zh-models.md": "adapted-pi",
+    "zh-packages.md": "adapted-pi",
+    "zh-prompt-templates.md": "adapted-pi",
+    "zh-providers.md": "adapted-pi",
+    "zh-quickstart.md": "pig-authored",
+    "zh-rpc.md": "adapted-pi",
+    "zh-sdk.md": "pig-authored",
+    "zh-security.md": "pig-authored",
+    "zh-session-format.md": "adapted-pi",
+    "zh-skills.md": "adapted-pi",
+    "zh-themes.md": "adapted-pi",
     "llama-cpp.md": "adapted-pi",
     "mcp.md": "adapted-pi",
     "message-types.md": "adapted-pi",
@@ -84,6 +108,40 @@
           "title": "How PiG Works",
           "path": "how-pig-works.md"
         }
+      ]
+    },
+    {
+      "title": "源码学习篇（中文）",
+      "items": [
+        { "title": "学习目录与版本说明", "path": "learning.md" },
+        { "title": "M01 开篇", "path": "learning-ch01-overview.md" },
+        { "title": "M02 三层架构", "path": "learning-ch02-three-layer-arch.md" },
+        { "title": "M03 Agent Loop", "path": "learning-ch03-agent-loop.md" },
+        { "title": "M04 模型调用", "path": "learning-ch04-model-call.md" },
+        { "title": "M05 工具系统", "path": "learning-ch05-tools.md" },
+        { "title": "M06 消息系统", "path": "learning-ch06-messages.md" },
+        { "title": "M07 事件驱动", "path": "learning-ch07-event-driven.md" },
+        { "title": "M08 上下文工程", "path": "learning-ch08-context-engineering.md" },
+        { "title": "M09 上下文压缩", "path": "learning-ch09-compaction.md" },
+        { "title": "M10 会话管理", "path": "learning-ch10-session.md" }
+      ]
+    },
+    {
+      "title": "中文参考（译本）",
+      "items": [
+        { "title": "快速开始", "path": "zh-quickstart.md" },
+        { "title": "Provider", "path": "zh-providers.md" },
+        { "title": "模型", "path": "zh-models.md" },
+        { "title": "扩展", "path": "zh-extensions.md" },
+        { "title": "Packages", "path": "zh-packages.md" },
+        { "title": "技能", "path": "zh-skills.md" },
+        { "title": "提示模板", "path": "zh-prompt-templates.md" },
+        { "title": "主题", "path": "zh-themes.md" },
+        { "title": "命令行集成", "path": "zh-cli-integration.md" },
+        { "title": "RPC 模式", "path": "zh-rpc.md" },
+        { "title": "Go SDK", "path": "zh-sdk.md" },
+        { "title": "会话文件格式", "path": "zh-session-format.md" },
+        { "title": "安全", "path": "zh-security.md" }
       ]
     },
     {
